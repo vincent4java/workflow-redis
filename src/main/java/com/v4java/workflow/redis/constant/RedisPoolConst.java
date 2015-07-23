@@ -5,7 +5,7 @@ public class RedisPoolConst {
 	/**
 	 * 地址
 	 */
-	public final static String HOST = "redis.yuleing.com";
+	public final static String HOST = "redis.workflow.com";
 	
 	/**
 	 * 端口
@@ -15,7 +15,7 @@ public class RedisPoolConst {
 	/**
 	 * 密码
 	 */
-	public final static String PASSWORD = "yuleing";
+	public final static String PASSWORD = "wf_redis";
 	
 	/**
 	 * 默认连接超时
